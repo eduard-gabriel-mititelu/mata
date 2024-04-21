@@ -1,0 +1,11 @@
+{
+    "name": "mata",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node experiment2.js",
+        "dev": "nodemon experiment2.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
